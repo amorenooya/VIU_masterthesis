@@ -8,7 +8,9 @@ generatect_finetune/
 
 ├── inference.py # Run model inference on prompts
 
-├── visualization.py # Pairing and plotting utilities for real vs generated images
+├── super_resolution.py # Run super-resolution model inference on prompts and low-resolution images
+
+├── visualization.py # Pairing and plotting utilities generated images
 
 ├── utils.py # Shared helpers
 
